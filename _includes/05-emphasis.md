@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Still new to coding so I do not have an extensive knowledge of programming languages. I do know the **command line** a fair amount and also know how to use **git commands** within the command line. I am always trying to **learn** new things and pride myself on having good **interpersonal skills** and **teamwork cooperation**. 
